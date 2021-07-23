@@ -1,4 +1,4 @@
-# Open-weather-GUI
+# Open-weather-GUI [![badge](https://user-images.githubusercontent.com/53147926/126813493-eac8e014-e46c-46e1-b1ce-49a7e38144fd.png)](https://forthebadge.com)
 
 Simple python based GUI project to get weather details of different cities.
 
