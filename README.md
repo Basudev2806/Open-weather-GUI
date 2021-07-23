@@ -8,10 +8,11 @@ Prerequisites:
 
 Python Packages
 
-pip install tkinter (By-default tkinter is already installed when we install python3.)
-pip install configparser
-pip install requests
+`Python -m pip install tkinter` (By-default tkinter is already installed when we install python3.)
+`Python -m pip install configparser`
+`Python -m pip install requests`
 
+![Openweatherlogo](https://user-images.githubusercontent.com/53147926/126808360-29695f09-4c72-4fe7-a797-2d04d4de56b2.png)
 API used - https://openweathermap.org/
  
 
