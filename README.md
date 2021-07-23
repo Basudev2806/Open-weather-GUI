@@ -16,7 +16,7 @@ Python Packages
 
 API used -
 
-<a href="https://openweathermap.org/"><img src="![Openweatherlogo](https://user-images.githubusercontent.com/53147926/126808360-29695f09-4c72-4fe7-a797-2d04d4de56b2.png)" width="217px"></a>
+<a href="https://openweathermap.org/" target="_blank"><img src="https://user-images.githubusercontent.com/53147926/126808360-29695f09-4c72-4fe7-a797-2d04d4de56b2.png"></a>
  
 
 ![result](https://user-images.githubusercontent.com/53147926/126805505-4f23afab-5e7d-4800-aee6-4267d89e328a.png)
